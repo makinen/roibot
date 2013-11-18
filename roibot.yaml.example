@@ -1,0 +1,19 @@
+roibot:
+  admin: makinen@xob.kapsi.fi
+  channels:
+    '#roibottest':
+      ops:
+      - makinen@xob.kapsi.fi
+  port: 6667
+  server: irc.fi.quakenet.org
+roibot2:
+  admin: makinen@xob.kapsi.fi
+  channels:
+    '#roibottest':
+      ops:
+      - makinen@xob.kapsi.fi
+    '#roibottest2':
+      ops:
+      - makinen@xob.kapsi.fi
+  port: 6667
+  server: irc.fi.quakenet.org
